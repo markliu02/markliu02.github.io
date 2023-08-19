@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently an associate professor (not tenured yet) at the [Department of Foreign Languages and Literatures](https://www.dfll.tsinghua.edu.cn/index.htm) of Tsinghua University.  Prior to this, I completed my Ph.D at [Rutgers](https://ling.rutgers.edu), and briefly worked at Hunan University. 
+I am currently an associate professor (not tenured yet) at the [Department of Foreign Languages and Literatures](https://www.dfll.tsinghua.edu.cn/index.htm) of Tsinghua University.  Prior to this, I completed my Ph.D in the [Rutgers Department of Linguistics](https://ling.rutgers.edu), and briefly worked at Hunan University. 
+
+I work on semantics and pragmatics.  
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
