@@ -23,5 +23,5 @@ I am currently an associate professor (not tenured yet) at the [Department of Fo
 
 My research focuses on the  semantics of natural language, and its interface with pragmatics and syntax, from a cross-linguistic perspective. The phenomena I have worked on include focus particles (*only, even, also*), quantification (universal quantification, *wh*-quantification), conditionals and exceptives. 
 
-At Tsinghua I teach courses at the undergraduate and graduate levels in formal semantics and formal pragmatics. I also teach a seminar in the Spring semantics on a specific topic in Mandarin.
+At Tsinghua I teach courses at the undergraduate and graduate levels in formal semantics and  pragmatics. I also teach a seminar in each Spring semester that focuses on a specific topic in Mandarin grammar.
 
