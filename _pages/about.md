@@ -25,4 +25,4 @@ My research focuses on the  semantics of natural language, and its interface wit
 
 At Tsinghua I teach courses at the undergraduate and graduate levels in formal semantics and  pragmatics. I also teach a seminar in each Spring semester that focuses on a specific topic in Mandarin grammar.
 
-I collaborate with my colleagues from the department of philosophy, and we have been organizing [TLLM](http://tsinghualogic.net/JRC/tllm/) (Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning) since 2019.
+I collaborate with my colleagues from the  philosophy department, and we have been organizing [TLLM](http://tsinghualogic.net/JRC/tllm/) (Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning) since 2019.
