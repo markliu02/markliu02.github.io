@@ -7,4 +7,4 @@ nav_order: 4
 description: 
 ---
 
-- [Download CV](/assets/pdf/Liu+cv.pdf)
+You can find my CV [here](/assets/pdf/Liu+cv.pdf).
