@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently an associate professor (not tenured yet) at the [Department of Foreign Languages and Literatures](https://www.dfll.tsinghua.edu.cn/index.htm) of Tsinghua University.  Prior to this, I completed my Ph.D in the [Rutgers Department of Linguistics](https://ling.rutgers.edu), and briefly worked at Hunan University. 
 
-My research focuses on the  semantics of natural language, and its interface with pragmatics and syntax, from a cross-linguistic perspective. The phenomena I have worked on include focus particles (*only, even, also*), quantification (universal quantification, *wh*-quantification), conditionals.  
+My research focuses on the  semantics of natural language, and its interface with pragmatics and syntax, from a cross-linguistic perspective. The phenomena I have worked on include focus particles (*only, even, also*), quantification (universal quantification, *wh*-quantification), conditionals and exceptives. 
 
-
+At Tsinghua I teach courses at the undergraduate and graduate levels in formal semantics and formal pragmatics. I also teach a seminar in the Spring semantics on a specific topic in Mandarin.
 
