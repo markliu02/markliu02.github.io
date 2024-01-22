@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently an associate professor (not tenured yet) at the [Department of Foreign Languages and Literatures](https://www.dfll.tsinghua.edu.cn/index.htm) of Tsinghua University.  Prior to this, I completed my Ph.D in the [Rutgers Department of Linguistics](https://ling.rutgers.edu), and briefly worked at Hunan University. 
+I am currently an associate professor at the [Department of Foreign Languages and Literatures](https://www.dfll.tsinghua.edu.cn/index.htm) of Tsinghua University.  Prior to this, I completed my Ph.D in the [Rutgers Department of Linguistics](https://ling.rutgers.edu), and briefly worked at Hunan University. 
 
 My research focuses on the  semantics of natural language, and its interface with pragmatics and syntax, from a cross-linguistic perspective. The phenomena I have worked on include focus particles (e.g. *only, even, also* and the famous Mandarin *dou*), quantification (universal quantification, *wh*-quantification), conditionals and exceptives. 
 
